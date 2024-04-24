@@ -1,13 +1,14 @@
 # crudFuncionario
-À partir da estrutura "Funcionario" descrita abaixo:
+## Desenvolvido por: Beatriz Bastos Borges e Miguel Luizatto Alves
+A partir da estrutura "Funcionario" descrita abaixo:
 
-------------------
+
 | Funcionario       |
 |-------------------|
 | - prontuario: int |
 | - nome: string    |
 | - salario: double |
----------------------
+
 Elabore um programa que permita administrar uma lista de funcionários e, através de um menu, ofereça as seguintes opções:
 
    0. Sair
