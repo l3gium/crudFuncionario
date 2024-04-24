@@ -1,5 +1,7 @@
-# crudFuncionario
-## Desenvolvido por: Beatriz Bastos Borges e Miguel Luizatto Alves
+# Crud de Funcionários
+
+### Desenvolvido por: Beatriz Bastos Borges e Miguel Luizatto Alves
+
 A partir da estrutura "Funcionario" descrita abaixo:
 
 
